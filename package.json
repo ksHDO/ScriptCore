@@ -1,0 +1,11 @@
+{
+  "name": "com.kshdo.scriptcore",
+  "version": "1.0.0",
+  "displayName": "ScripCore",
+  "description": "ScriptCore forked from RedScientistLabs",
+  "unity": "2020.2",
+  "unityRelease": "4f1",
+  "author": {
+    "name": "ksHDO"
+  }
+}
